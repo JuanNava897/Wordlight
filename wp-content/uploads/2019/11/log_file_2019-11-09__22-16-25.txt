@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: Intrinsic Dark Version were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/light
+Data file = C:\xampp\htdocs\light/wp-content/uploads/2019/11/demo-content-import-file_2019-11-09__22-16-25.xml
+Widget file = C:\xampp\htdocs\light/wp-content/uploads/2019/11/demo-widgets-import-file_2019-11-09__22-16-25.json
+Customizer file = C:\xampp\htdocs\light/wp-content/uploads/2019/11/demo-customizer-import-file_2019-11-09__22-16-25.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Imagen - Ads Widget - Imported
+Categorías - Categories - Imported
+Galería - Our Gallery - Imported
+Nube de etiquetas - Tag Cloud - Imported
+
+Sidebar Single : 
+
+Imagen - Ads Widgets - Imported
+Categorías - Categories - Imported
+Galería - Our Gallery - Imported
+Nube de etiquetas - Tag Cloud - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
